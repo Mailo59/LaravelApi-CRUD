@@ -65,4 +65,4 @@ root/
 4. **Resumen funcional:**
    - Describe qué funcionalidades incluye la aplicación.
 
-Con este `README.md`, cualquier desarrollador podrá entender y configurar tu proyecto rápidamente. 🚀 Si necesitas algo más, ¡avísame! 😊
+Espero les pueda servir 😊
